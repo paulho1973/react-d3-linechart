@@ -1,3 +1,5 @@
+Refer to article posted in [Medium](https://paulho1973.medium.com/create-line-chart-with-d3-and-react-a0ae9a5e1f7).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
